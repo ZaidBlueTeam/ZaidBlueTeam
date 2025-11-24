@@ -7,7 +7,7 @@
 
 ---
 
-I have been working on games/mods for a long time now. It became my thing now.
+I have been working on games/mods for a long time. It became my thing now.
 
 ---
 
