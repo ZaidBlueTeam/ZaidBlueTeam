@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="left">Zaid Al Hamadani</h1>
+<h3 align="left">Software Developer • Game Developer • Audio Enginner </h3>
 
-<!--
-**ZaidBlueTeam/ZaidBlueTeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  I build games that interests me and even apps! I also love working in Audacity.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have been working on games/mods for a long time now. It became my thing now.
+
+---
+
+Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,java,cs,,nodejs,nest,threejs,git" />
+</p>
+
+---
