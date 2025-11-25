@@ -20,13 +20,33 @@ I have been working on games/mods for a long time. It became my thing now.
 ---
 
 ### 🎬 My Latest YouTube Videos
-### 🎬 Latest YouTube Videos (Manual)
 
-[![Video 1](https://img.youtube.com/vi/e5LN50Q0OKM/maxresdefault.jpg)](https://www.youtube.com/shorts/e5LN50Q0OKM)
-[![Video 2](https://img.youtube.com/vi/VnuSkdgGaWQ/maxresdefault.jpg)](https://www.youtube.com/shorts/VnuSkdgGaWQ)
-[![Video 3](https://img.youtube.com/vi/Rm_Lso2t79o/maxresdefault.jpg)](https://www.youtube.com/shorts/Rm_Lso2t79o)
-[![Video 4](https://img.youtube.com/vi/3HLXKFMFqeo/maxresdefault.jpg)](https://www.youtube.com/shorts/3HLXKFMFqeo)
+<table>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/shorts/e5LN50Q0OKM">
+        <img src="https://img.youtube.com/vi/e5LN50Q0OKM/hqdefault.jpg" width="200" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/shorts/VnuSkdgGaWQ">
+        <img src="https://img.youtube.com/vi/VnuSkdgGaWQ/hqdefault.jpg" width="200" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/shorts/Rm_Lso2t79o">
+        <img src="https://img.youtube.com/vi/Rm_Lso2t79o/hqdefault.jpg" width="200" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/shorts/3HLXKFMFqeo">
+        <img src="https://img.youtube.com/vi/3HLXKFMFqeo/hqdefault.jpg" width="200" />
+      </a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
