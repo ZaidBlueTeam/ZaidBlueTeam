@@ -19,7 +19,7 @@ I have been working on games/mods for a long time. It became my thing now.
 
 ---
 
-### 🎬 My Latest YouTube Videos
+### My Latest YouTube Videos
 
 <table>
   <tr>
@@ -45,12 +45,5 @@ I have been working on games/mods for a long time. It became my thing now.
     </td>
   </tr>
 </table>
-
-        <img src="https://img.youtube.com/vi/3HLXKFMFqeo/hqdefault.jpg" width="200" />
-      </a>
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
 </table>
 
