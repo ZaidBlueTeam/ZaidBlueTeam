@@ -25,23 +25,27 @@ I have been working on games/mods for a long time. It became my thing now.
   <tr>
     <td>
       <a href="https://www.youtube.com/shorts/e5LN50Q0OKM">
-        <img src="https://img.youtube.com/vi/e5LN50Q0OKM/hqdefault.jpg" width="200" />
+        <img src="https://img.youtube.com/vi/e5LN50Q0OKM/hqdefault.jpg" width="180" />
       </a>
     </td>
     <td>
       <a href="https://www.youtube.com/shorts/VnuSkdgGaWQ">
-        <img src="https://img.youtube.com/vi/VnuSkdgGaWQ/hqdefault.jpg" width="200" />
+        <img src="https://img.youtube.com/vi/VnuSkdgGaWQ/hqdefault.jpg" width="180" />
       </a>
     </td>
     <td>
       <a href="https://www.youtube.com/shorts/Rm_Lso2t79o">
-        <img src="https://img.youtube.com/vi/Rm_Lso2t79o/hqdefault.jpg" width="200" />
+        <img src="https://img.youtube.com/vi/Rm_Lso2t79o/hqdefault.jpg" width="180" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/shorts/3HLXKFMFqeo">
+        <img src="https://img.youtube.com/vi/3HLXKFMFqeo/hqdefault.jpg" width="180" />
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://www.youtube.com/shorts/3HLXKFMFqeo">
+</table>
+
         <img src="https://img.youtube.com/vi/3HLXKFMFqeo/hqdefault.jpg" width="200" />
       </a>
     </td>
